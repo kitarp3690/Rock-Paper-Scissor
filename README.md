@@ -1,5 +1,5 @@
 
-# Tic-Tac-Toe
+# Rock Paper Scissor
 
 This is a simple graphical tic-tac-toe game developed in Python using the tkinter toolkit.
 
@@ -12,8 +12,7 @@ This is a simple graphical tic-tac-toe game developed in Python using the tkinte
 
 ## Installation
 
-1) **Install my-project with npm**
-
+1) **Install my-project **
 ```bash
     git clone https://github.com/kitarp3690/Rock-Paper-Scissor.git
 ```
