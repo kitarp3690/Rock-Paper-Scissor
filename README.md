@@ -12,7 +12,7 @@ This is a simple graphical rock-paper-scissor game developed in Python using the
 
 ## Installation
 
-1) **Install my-project **
+1) **Install my-project**
 ```bash
     git clone https://github.com/kitarp3690/Rock-Paper-Scissor.git
 ```
