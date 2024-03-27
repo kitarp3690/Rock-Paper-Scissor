@@ -1,7 +1,7 @@
 
 # Rock Paper Scissor
 
-This is a simple graphical tic-tac-toe game developed in Python using the tkinter toolkit.
+This is a simple graphical rock-paper-scissor game developed in Python using the tkinter toolkit.
 
 
 
